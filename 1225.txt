@@ -2,4 +2,9 @@
 12345678
 git git git
 a new branch
+<<<<<<< HEAD
 quick & simple
+=======
+quick and simple
+>>>>>>> feature1
+quick AND simple
