@@ -8,3 +8,4 @@ quick & simple
 quick and simple
 >>>>>>> feature1
 quick AND simple
+12 30
